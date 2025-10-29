@@ -7,7 +7,7 @@
 <br>
 
 <p allign="center">
-<img src="https://skillicons.dev/icons?i=cs,python,html,css,c,cpp,js,ts,lua" />
+<img src="https://skillicons.dev/icons?i=cs,python,html,css,c,cpp,js,ts,lua,vscode,ps,pr" />
 </p>
 
 
