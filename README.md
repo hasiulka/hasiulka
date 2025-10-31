@@ -1,6 +1,6 @@
 ## ୨🦇･𝑬𝑵𝑻𝑹𝒀 ୨ৎ
 
-<img src="https://i.pinimg.com/736x/70/2a/b0/23151385579900983.jpg">
+<img src="https://pl.pinterest.com/pin/23151385579900983/">
 
 ## 🔌 Skills
 
